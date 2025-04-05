@@ -7,12 +7,12 @@
 }
 
 :root {
-  --primary-color: #ff7e5f;
-  --secondary-color: #feb47b;
+  --primary-color: #000000;
+  --secondary-color: #333333;
   --accent-color: #7028e4;
   --text-color: #333;
   --text-light: #fff;
-  --btn-color: #ff7e5f;
+  --btn-color: #000000;
   
   /* Typography variables */
   --heading-font: 'Montserrat', sans-serif;
